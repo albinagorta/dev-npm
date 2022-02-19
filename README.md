@@ -33,4 +33,4 @@ Y se creará un package.json con los datos que seleccionamos.
 
 
 
-(https://raw.githubusercontent.com/albinagorta/dev-npm/main/a.jpg)
+!(https://raw.githubusercontent.com/albinagorta/dev-npm/main/a.jpg)
