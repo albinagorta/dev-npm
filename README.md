@@ -27,4 +27,10 @@ npm set init.license "license name"
 npm init -y
 Y se creará un package.json con los datos que seleccionamos.
 
-![mi perfil](https://raw.githubusercontent.com/albinagorta/dev-npm/main/a.jpg)
+
+
+
+
+
+
+(https://raw.githubusercontent.com/albinagorta/dev-npm/main/a.jpg)
