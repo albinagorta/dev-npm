@@ -28,9 +28,9 @@ npm init -y
 Y se creará un package.json con los datos que seleccionamos.
 
 
+<h3>Nota en imagen</h3>
 
 
 
 
-
-!(https://raw.githubusercontent.com/albinagorta/dev-npm/main/a.jpg)
+![mi perfil](https://raw.githubusercontent.com/albinagorta/dev-npm/main/a.jpg)
